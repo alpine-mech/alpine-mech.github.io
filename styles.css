@@ -1,0 +1,11 @@
+
+body { font-family: Arial, sans-serif; background: #f4f7fb; margin: 0; padding: 0; }
+header { background: #002c4b; color: white; padding: 10px 20px; display: flex; align-items: center; justify-content: space-between; }
+.logo { height: 60px; }
+nav a { margin: 0 10px; color: white; text-decoration: none; font-weight: bold; }
+nav a:hover { text-decoration: underline; }
+.social-icons img { height: 32px; margin-left: 10px; }
+main { padding: 40px 20px; text-align: center; }
+.cta { display: inline-block; margin-top: 20px; padding: 10px 20px; background: #007bff; color: white; text-decoration: none; border-radius: 5px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 10px; padding: 20px; justify-content: center; }
+.gallery img { max-width: 300px; border-radius: 8px; }
